@@ -3,8 +3,7 @@
 Park At Ease is a mobile parking app prototype designed in Figma to help students and urban commuters find, filter, and book parking spots near their destination.
 
 ## Figma Prototype
-[Figma Prototype Link](## Figma Prototype
-[Figma Prototype Link](https://www.figma.com/design/uT4g14WGeVSoLO5jHhSMKg/Untitled?node-id=8-3&t=7PgEVDFNx6HP31u5-1))
+[Figma Prototype Link](https://www.figma.com/design/uT4g14WGeVSoLO5jHhSMKg/Untitled?node-id=8-3&t=7PgEVDFNx6HP31u5-1)
 
 ## Overview
 This project focused on designing a simple and efficient parking experience through a mobile interface. The prototype demonstrates the user journey from login and map-based search to filtering, booking, payment, confirmation, and profile management.
